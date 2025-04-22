@@ -2,7 +2,7 @@
 
 ## Overview
 
-This workflow was used for the data preparation and analysis of single-cell RNA-sequencing data to quantify levels of transcriptioanl noise. This analysis was performed either between cell states in untreated cells (neuroblastoma and hepatoblastoma models) or between phases of a cisplatin treatment course\
+This workflow was used for the data preparation and analysis of single-cell RNA-sequencing data to quantify levels of transcriptioanl noise. This analysis was performed either between cell states in untreated cells (neuroblastoma and hepatoblastoma models) or between phases of a cisplatin treatment course.
 
 For additional information and instructions see the BASiCS GitHub page (https://github.com/catavallejos/BASiCS) and relevant publications (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004333).
 
@@ -19,4 +19,4 @@ For additional information and instructions see the BASiCS GitHub page (https://
    - Calculate differential expression and over-dispersion between cell states using BASiCS_TestDE, plot results and extract gene information.
      
 4. **Identify highly variable genes within individual groups**
-   - Use BASiCS_DetectHVG to identify genes with hihg variability within phases of cisplatin treatment course
+   - Use BASiCS_DetectHVG to identify genes with hihg variability within phases of cisplatin treatment course.
