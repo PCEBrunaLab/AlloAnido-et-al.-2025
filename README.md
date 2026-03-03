@@ -15,4 +15,5 @@ The provided folders contain all code and scripts needed to process, analyse and
 
 RNA Sequencing (MemorySeq) \
 Transcriptional noise quantification (BASiCS) \
-Neuroblastoma scRNA-seq Analysis Pipeline
+Neuroblastoma scRNA-seq Analysis Pipeline \
+Cut & Tag
