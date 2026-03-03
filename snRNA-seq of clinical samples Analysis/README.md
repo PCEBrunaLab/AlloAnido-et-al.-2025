@@ -8,6 +8,8 @@ Single-cell RNA sequencing analysis pipeline for neuroblastoma (NB) patient tumo
 
 ## Dataset Overview
 
+Six matched samples at diagnosis and post-treatment were obtained from VIVO biobank.
+
 - **Tumour type:** Neuroblastoma (NB)
 - **Patients:** 5 (770, 637, 644, 649, 1087)
 - **Timepoints:** F1 (diagnosis) and F2 (post-treatment)
