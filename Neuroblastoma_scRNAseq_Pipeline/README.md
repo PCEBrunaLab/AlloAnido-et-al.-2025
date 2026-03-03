@@ -219,8 +219,4 @@ Place in `references/` directory:
 - `malignant_cluster_markers.csv`
 - `emptyDrops_summary_NB_relaxed_filters.tsv`
 
----
 
-## Citation
-
-> Sadr, A. et al. (2025). Single-cell transcriptomic analysis of neuroblastoma patient tumour biopsies.
