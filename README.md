@@ -14,4 +14,5 @@ For any questions or queries please contact - PreclinPaedCancerEvo@icr.ac.uk
 The provided folders contain all code and scripts needed to process, analyse and plot all figures in the above mentioned manuscript including:
 
 RNA Sequencing (MemorySeq) \
-Transcriptional noise quantification (BASiCS) 
+Transcriptional noise quantification (BASiCS) \
+Neuroblastoma scRNA-seq Analysis Pipeline
